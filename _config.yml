@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Phillip's log"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Jun-Young Lee"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -62,26 +62,26 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  avatar           : "IMG_6278.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
-  bitbucket        :
+  location         : "Seoul, Korea"
+  email            : "jcsla@naver.com"
+  uri              : "http://jcsla.tistory.com/"
+  bitbucket        : "https://bitbucket.org/jcsla/"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jcsla"
   foursquare       :
-  github           :
+  github           : "https://github.com/jcsla"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/jcsla/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://kr.linkedin.com/in/jun-young-lee-8394398a"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/123456/username"
   steam            :
   tumblr           :
   twitter          :
