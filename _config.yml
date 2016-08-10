@@ -61,27 +61,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "IMG_6278.jpg"
+  name             : "Jun-Young Lee"
+  avatar           : "/images/IMG_6278.jpg"
   bio              : "I am an amazing person."
   location         : "Seoul, Korea"
   email            : "jcsla@naver.com"
   uri              : "http://jcsla.tistory.com/"
-  bitbucket        : "https://bitbucket.org/jcsla/"
+  bitbucket        : "jcsla"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/jcsla"
+  facebook         : "jcsla"
   foursquare       :
-  github           : "https://github.com/jcsla"
+  github           : "jcsla"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/jcsla/"
+  instagram        : "jcsla"
   lastfm           :
-  linkedin         : "https://kr.linkedin.com/in/jun-young-lee-8394398a"
+  linkedin         : "jun-young-lee-8394398a"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "http://stackoverflow.com/users/123456/username"
+  stackoverflow    : "6699703/phillip"
   steam            :
   tumblr           :
   twitter          :
